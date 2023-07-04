@@ -12,10 +12,10 @@ In our study, we used four distinguished approaches: eXtreme Gradient Boosting (
 
 #Individual Detection Rates for each crime were also compared as part of our research:
 
-## chicago crime prediction rates(Using an xGBoost model):
+## Chicago crime prediction rates(Using an xGBoost model):
 ![xgboost crime](https://github.com/rahulharikumarr/crime-pattern-recognition/assets/52792591/3c1486dc-30ca-4ba8-b0a0-5e5eaed230e1)
 
-## boston crime prediction rates(using a Bagging Model):
+## Boston crime prediction rates(using a Bagging Model):
 ![bagging crime](https://github.com/rahulharikumarr/crime-pattern-recognition/assets/52792591/a921a19e-a993-49e7-96e9-8253c0a43f8e)
 
 ## San Francisco crime prediction rates(Using an xGBoost model):
